@@ -1,0 +1,5 @@
+DataFile, InvalidFileSize, -100, 9.99
+VideoFile, InvalidVideoLength, 2048, 19.99, -120
+EBook, InvalidPrice, 512, -4.99, joyal, yay, 300
+VideoFile, MissingLength, 2048, 19.99
+EBook, MissingAuthor, 512, 4.99, , 300

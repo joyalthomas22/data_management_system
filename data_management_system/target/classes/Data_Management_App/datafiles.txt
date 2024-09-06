@@ -1,0 +1,18 @@
+DataFile, SaitamaProfile, 1024, 9.99
+VideoFile, SaitamaVsBoros, 2048, 19.99, 120
+EBook, SaitamaBiography, 512, 4.99, joyal, Saitama, 300
+DataFile, GenosProfile, 1024, 8.99
+VideoFile, GenosVsSonic, 2048, 18.99, 90
+EBook, GenosUpgrades, 512, 3.99, sumo, Genos, 250
+DataFile, FubukiProfile, 1024, 7.99
+VideoFile, FubukiVsTatsumaki, 2048, 17.99, 110
+EBook, FubukiStory, 512, 2.99, joyal, Fubuki, 200
+DataFile, KingProfile, 1024, 6.99
+VideoFile, KingVsMonster, 2048, 16.99, 100
+EBook, KingLegend, 512, 1.99, suzi, King, 150
+DataFile, InvalidFileSize, -100, 9.99
+VideoFile, InvalidVideoLength, 2048, 19.99, -120
+EBook, InvalidPrice, 512, -4.99, joyal, yay, 300
+DataFile, InvalidFileNameTooLong, 1024, 9.99
+VideoFile, MissingLength, 2048, 19.99
+EBook, MissingAuthor, 512, 4.99, , 300
